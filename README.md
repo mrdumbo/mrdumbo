@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @mrdumbo. A Software Engineer in charge of reviewing all code challenges
+- 👋  Hi, I’m @mrdumbo. A Software Engineer in charge of reviewing all code challenges from Strands labs
 - 👀  I’m interested in finding good developers to work with us
 - 📫  You can reach to me sending me an email to: codechallenge@strands.com
 
